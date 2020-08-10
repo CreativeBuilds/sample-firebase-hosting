@@ -1,0 +1,16 @@
+.qa {
+  padding: 2em;
+  background: var(--darker-color);
+  border-radius: 1em;
+
+  box-shadow: 4px 4px 8px var(--darker-color);
+
+  .question {
+    margin-bottom: 0.25em;
+    font-size: 1.5em;
+  }
+
+  .answer {
+    margin-bottom: 1.5em;
+  }
+}
